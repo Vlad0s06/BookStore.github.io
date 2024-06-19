@@ -1,0 +1,34 @@
+﻿@model BookStore.Domain.Entities.DeliveryInfo
+@{
+    ViewBag.Title = "Форма заказа";
+}
+<div class="form" style="width:500px">
+    <h2>Оформить заказ сейчас</h2>
+    <p>Пожалуйста введи ваши контактные данные, и мы сразу отправим товар!</p>
+    <hr />
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary();
+        <h3>Данные</h3>
+        <div class="form-group">
+            <label>Введите фамилию, имя, отчество получателя:</label>
+            @Html.TextBoxFor(x => x.FullName, new { @class = "form-control", @style = "margin-left:20px;width:300px" })
+        </div>
+        <hr />
+        <h3>Адрес доставки</h3>
+        foreach (var property in ViewData.ModelMetadata.Properties)
+        {
+            if (property.PropertyName != "FullName" &&
+                property.PropertyName != "DeliveryInfoId")
+            {
+                <div class="form-group">
+                    <label>@(property.DisplayName ?? property.PropertyName)</label>
+                    @Html.TextBox(property.PropertyName, null, new { @class = "form-control", @style = "margin-left:20px;width:240px" })
+                </div>
+            }
+        }
+        <div class="text-center">
+            <input class="btn btn-primary" type="submit" value="Обработать заказ" />
+        </div>
+    }
+</div>

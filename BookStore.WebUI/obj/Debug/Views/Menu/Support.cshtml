@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Я-автор";
+}
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">Возникли проблемы технического характера?</h1>
+        <hr />
+        <p class="lead">
+            Для связи с технической поддержкой можете по адресу электронной почты: <br/>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a>bookstoretechsupp@gmail.com</a>
+            }
+            else
+            {
+                <a href="@Url.Action("Register","Auth")">Требуется регистрация</a>
+            }
+        </p>
+    </div>
+</div>
