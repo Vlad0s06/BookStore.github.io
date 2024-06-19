@@ -1,0 +1,49 @@
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojAssemblyReference.cache
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CopyComplete
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+D:\Studying\LearnMVC\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.AssemblyReference.cache
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CopyComplete
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
