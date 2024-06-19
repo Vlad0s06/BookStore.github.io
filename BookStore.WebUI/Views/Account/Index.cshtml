@@ -1,0 +1,33 @@
+﻿@model BookStore.Domain.Entities.User
+@{
+    ViewBag.Title = "Личный кабинет";
+    HtmlHelper.ClientValidationEnabled = false;
+    HtmlHelper.UnobtrusiveJavaScriptEnabled = false;
+}
+<div class="card card-body" style="width:600px; margin: auto">
+    <h3>
+        <strong>Здравствуйте, @Model.Name!</strong>
+    </h3>
+    <div class="line">
+        <h4>
+            <span class="font-weight-normal">Логин: @Model.Email</span>
+        </h4>
+    </div>
+    <div class="line">
+        <h4>
+            <span class="font-weight-normal">Возраст: @Model.Age</span>
+        </h4>
+    </div>
+    <div class="panel-footer">
+        @Html.ActionLink("Мои заказы", "Purchases", new { Model.UserId },
+       new { @class = "btn btn-success", @style = "margin-bottom:20px" })
+        <br />
+        @Html.ActionLink("Редактировать профиль", "EditProfile", new { Model.UserId }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Изменить пароль", "EditPassword", new { Model.UserId }, new { @class = "btn btn-warning" })
+        <a class="btn btn-danger" href="@Url.Action("Logout","Auth")">Выйти</a>
+        <br />
+        @Html.ActionLink("Вернуться на главную", "List", "Book", null,
+            new { @class = "btn btn-secondary", @style = "margin-top:20px" })
+    </div>
+</div>
+<div id="showEditPassword"></div>
