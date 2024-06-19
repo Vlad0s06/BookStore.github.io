@@ -1,0 +1,11 @@
+﻿@using (Ajax.BeginForm("BookSearch", new AjaxOptions { UpdateTargetId = "results" }))
+{
+    <div class="container h-100">
+        <div class="d-flex justify-content-center h-100">
+            <div class="searchbar">
+                <input class="search_input" type="text" name="name" placeholder="Введите название книги или имя автора" style="width:315px">
+                <button type="submit" class="btn" style="color:dodgerblue"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </div>
+}
