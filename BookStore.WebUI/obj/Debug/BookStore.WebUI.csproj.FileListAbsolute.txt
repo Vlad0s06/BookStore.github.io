@@ -1,0 +1,211 @@
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.WebUI.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csc.exe
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csc.exe.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csc.rsp
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csi.exe
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csi.exe.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\csi.rsp
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.AppContext.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Console.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.IO.Compression.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Net.Http.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Net.Sockets.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.ValueTuple.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\vbc.exe
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\vbc.exe.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\vbc.rsp
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Moq.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\WebActivator.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Moq.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojAssemblyReference.cache
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CopyComplete
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.Domain.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Helpers.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Mvc.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Optimization.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Razor.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\WebGrease.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\EntityFramework.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.Domain.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\BookStore.Domain.dll.config
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Helpers.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Mvc.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Optimization.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Razor.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\EntityFramework.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Providers.dll
+D:\Studying\LearnMVC\BookStore\BookStore.WebUI\bin\System.Web.Providers.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csc.exe
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csi.exe
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Moq.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\WebActivator.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\WebGrease.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\BookStore.Domain.dll.config
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Moq.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Providers.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.AssemblyReference.cache
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CopyComplete
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\ermel\Desktop\Новая папка (3)\BookStoreMVC5-master\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb

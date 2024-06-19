@@ -1,0 +1,130 @@
+﻿.form {
+    background-color: lightgreen;
+    border: 6px solid lightblue;
+    border-radius: 25px;
+    margin: auto;
+}
+
+    .form h2 {
+        margin: 20px;
+    }
+
+    .form h3 {
+        margin: 20px;
+    }
+
+    .form p {
+        margin: 20px;
+    }
+
+    .form .form-horizontal h4 {
+        margin-left: 20px;
+    }
+
+    .form .form-footer {
+        margin: 20px;
+    }
+
+    .form .form-control {
+        width: 450px;
+    }
+
+    .form .form-group label {
+        margin-left: 20px;
+    }
+
+
+    .form .text-center {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .form .checkbox {
+        margin-left: 20px;
+    }
+
+.card {
+    background-color: lightgreen;
+    border: 6px solid lightblue;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+    .card .list-group .list-group-item {
+        background-color: lightgreen;
+    }
+
+.panel {
+    background-color: lightgreen;
+    border: 6px solid lightblue;
+    border-radius: 25px;
+    margin: auto;
+}
+
+    .panel .panel-heading {
+        margin: 20px;
+    }
+
+    .panel .panel-body {
+        margin-left: 20px;
+    }
+
+        .panel .panel-body .form-control {
+            width: 350px;
+        }
+
+    .panel .panel-footer {
+        margin: 20px;
+    }
+
+.table {
+    background-color: lightgreen;
+    border-spacing: 0;
+    border-radius: 25px;
+}
+
+    .table tr {
+        text-align: center;
+    }
+
+        .table tr td {
+            text-align: center;
+        }
+
+    .table th {
+        border-top: none;
+    }
+
+#cartTable td {
+    vertical-align: middle;
+}
+
+@media all and (max-width: 800px) {
+    .form {
+        width: 95% !important;
+    }
+
+        .form .form-group {
+            width: 90% !important;
+        }
+
+    .panel {
+        width: 95% !important;
+    }
+
+    .form .form-control {
+        width: 90% !important;
+    }
+
+    .form .form-horizontal .form-group {
+        width: 70% !important;
+    }
+
+        .form .form-horizontal .form-group .input-group {
+            width: 140% !important;
+        }
+
+    .panel .panel-body .form-control {
+        width: 70% !important;
+    }
+}
