@@ -1,0 +1,51 @@
+﻿@model BookStore.Domain.Entities.User
+@{
+    ViewBag.Title = "Редактирование профиля";
+}
+<div class="panel" style="width:400px">
+    <div class="panel-heading">
+        <h3>Редактирование профиля</h3>
+    </div>
+    <hr />
+    @using (Html.BeginForm("EditProfile", "Account", FormMethod.Post))
+    {
+        <div class="panel-body">
+            @Html.HiddenFor(m => m.UserId)
+            @Html.HiddenFor(m => m.Role)
+            @Html.HiddenFor(m => m.RoleId)
+            @Html.HiddenFor(m => m.Password)
+            @foreach (var property in ViewData.ModelMetadata.Properties)
+            {
+                switch (property.PropertyName)
+                {
+                    case "UserId":
+                    case "RoleId":
+                    case "Role":
+                    case "Password":
+                        break;
+                    default:
+                        <div class="form-group">
+                            <label>@(property.DisplayName ?? property.PropertyName)</label>
+                            @if (property.PropertyName == "Email")
+                            {
+                                @Html.TextBox(property.PropertyName, null,
+                                new { @class = "form-control", @type = "email", @style = "width:300px" })
+                                @Html.ValidationMessage(property.PropertyName)
+                            }
+                            else
+                            {
+                                @Html.TextBox(property.PropertyName, null,
+                                new { @class = "form-control", @style = "width:300px" })
+                                @Html.ValidationMessage(property.PropertyName)
+                            }
+                        </div>
+                        break;
+                }
+            }
+        </div>
+        <div class="panel-footer" style="text-align:center">
+            <input type="submit" value="Сохранить" class="btn btn-primary" />
+            @Html.ActionLink("Отменить", "Index", null, new { @class = "btn btn-danger", @style = "margin-left:40px" })
+        </div>
+    }
+</div>
